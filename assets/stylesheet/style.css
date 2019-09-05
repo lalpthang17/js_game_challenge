@@ -1,0 +1,44 @@
+
+body {
+    background-image: url("../../assets/image/4250cf3e0be36300f7f2db83c6827ca6.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-color: aquamarine;
+}
+
+h2 {
+    color: red;
+    font-weight: bold;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+}
+
+#reset {
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+#teamone-shoot {
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+#teamtwo-shoot {
+    color: lightseagreen;
+    font-weight: bold;
+}
+
+.hits {
+    color: white;
+}
+#num-resets {
+    color: white;
+}  
+
+#word {
+    color: white;
+}
+
