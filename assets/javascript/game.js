@@ -66,7 +66,14 @@ resetButtonElement.addEventListener("click", function () {
     resetButtonCount = resetButtonCount + 1
     NumberOfResetElement.innerHTML = resetButtonCount
     teamTwoGoalCountElement.innerHTML = 0;
+    teamOneShotCountElement.innerHTML = 0;
+    teamTwoShotCountElement.innerHTML = 0;
     teamOneGoalCountElement.innerHTML = 0;
+    teamTwoGoalCount = 0;
+    teamOneGoalCount = 0;
+    teamOneShotCount = 0;
+    teamTwoShotCount= 0;
+
 
 })
 
